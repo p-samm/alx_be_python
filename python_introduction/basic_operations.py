@@ -1,7 +1,7 @@
 # basic_operations.py
 # This script performs basic arithmetic operations on two numbers.
 
-number1 = 20
+number1 = 10
 number2 = 5
 
 # Perform calculations
