@@ -1,0 +1,6 @@
+ALL WORK FORMAT 
+cd Desktop\alx_be_python
+git add .
+git commit -m "Add/update your_file.py with [brief description]"
+git pull origin main --allow-unrelated-histories
+git push
